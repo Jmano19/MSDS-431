@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+{{< profile-image >}}
+
 # About Me
 
 I am a data and analytics professional focused on data engineering, applied artificial intelligence, and quantitative analytics.
