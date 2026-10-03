@@ -1,0 +1,36 @@
+# NPM
+node_modules/
+npm-debug.log
+
+# IDE
+.idea
+*.sublime-project
+*.sublime-workspace
+.vscode/*
+
+# OS
+._*
+Thumbs.db
+.DS_Store
+.Trashes
+.Spotlight-V100
+.AppleDouble
+.LSOverride
+Desktop.ini
+
+# dev
+DOCUMENTATION.md
+docs/
+tmp/
+
+# Claude Code
+.claude/
+.mcp.json
+
+# Hugo
+.hugo_build.lock
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
