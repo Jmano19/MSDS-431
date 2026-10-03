@@ -1,0 +1,48 @@
+baseURL = 'http://localhost:1313/'
+locale = 'en-us'
+title = 'Jared Mano'
+
+theme = 'clarity'
+themesDir = 'themes'
+
+[menus]
+
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Experience'
+    pageRef = '/experience'
+    weight = 30
+
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects'
+    weight = 40
+
+  [[menus.main]]
+    name = 'Education'
+    pageRef = '/education'
+    weight = 50
+
+  [[menus.main]]
+    name = 'Skills'
+    pageRef = '/skills'
+    weight = 60
+
+  [[menus.main]]
+    name = 'Resume'
+    pageRef = '/resume'
+    weight = 70
+
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 80
